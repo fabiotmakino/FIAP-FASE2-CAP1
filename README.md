@@ -23,6 +23,10 @@
 
 Botões usam `INPUT_PULLUP` (pressionado = LOW). Cada clique **alterna** o nível do nutriente entre ADEQUADO e BAIXO.
 
+## Circuito no Wokwi
+
+![Circuito FarmTech no Wokwi com ESP32](Farmtech%20-%20Wokwi%20ESP32.jpg)
+
 ## Lógica de decisão
 ```
 nutrientesOk = P e K adequados
